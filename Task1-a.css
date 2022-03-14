@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.heading{
+    text-align: center;
+}
+
+.time-input-box{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 39px;
+}
+
+.time-input{
+    font-size: 47px;
+    margin: 0px auto;
+    width: 195px;
+    height: 78px;
+    border-radius: 32px;
+}
+
+.time-btn{
+    display: block;
+    margin: 10px auto;
+    cursor: pointer;
+    height: 54px;
+    width: 231px;
+    border-radius: 50px;
+    font-size: 28px;
+    font-weight: bolder;
+}
+
+.time-btn:hover{
+    background-color:#23272b;
+    color: white;
+}
+
+.text-center{
+    text-align: center;
+}
